@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1040",
+      "text": "Bath",
+      "day": "Today",
+      "reminder": true
+    },
+    {
+      "id": "b701",
+      "text": "Greetings",
+      "day": "Tomorrow",
+      "reminder": true
+    },
+    {
+      "id": "b790",
+      "text": "Warning",
+      "day": "If i catch you , you go know me 😠",
+      "reminder": true
+    }
+  ]
+}
